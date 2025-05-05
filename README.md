@@ -156,11 +156,11 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 ## Citation
 
-{leo2025reverseabliterator,
+@misc{leo2025reverseabliterator,
   author = {Leo Borcherding},
   title = {Reverse Abliterator: A tool for targeted language model modification},
   year = {2025},
   publisher = {GitHub},
-  howpublished = {\url{https://github.com/Ollama-Agent-Roll-Cage/oarc-reverse-abliterator}}
+  howpublished = {<https://github.com/Ollama-Agent-Roll-Cage/oarc-reverse-abliterator>}
 }
 
