@@ -156,7 +156,7 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 ## Citation
 
-@misc{leo2025reverseabliterator,
+{leo2025reverseabliterator,
   author = {Leo Borcherding},
   title = {Reverse Abliterator: A tool for targeted language model modification},
   year = {2025},
